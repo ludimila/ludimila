@@ -1,4 +1,4 @@
-### Oi 👋
+### Oi, eu sou a Ludi 👋
 
 
 - 🔭 Sou voluntária na BOSS

@@ -2,7 +2,7 @@
 
 
 - 🔭 Sou voluntária na BOSS
-- 🌱 Estou aprendendo a utilizar swift de maneira assincrona
+- 🌱 Estou aprendendo sobre concorrência e gerenciameno de memória em swift
 - 🤔 Procuro ajuda em RxSwift
 - 💬 Você pode me perguntar coisas sobre git, swift, testes unitários
 - 📫 Você me entrar contato em:  lbelacruz@gmail.com
